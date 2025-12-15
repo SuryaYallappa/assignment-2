@@ -1,6 +1,0 @@
-NUM1=int(input("ENTER THE FIRST NUMBER:"))
-NUM2=int(input("ENTER THE SECOND NUMBER:"))
-print("Addition: ", NUM1+NUM2)
-print("Subtraction: ", NUM1-NUM2)
-print("Multiplication: ", NUM1*NUM2)
-print("Division: ", NUM1/NUM2)
